@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Someshwar28Mishra/PRESS-PULSE.git/static/css/main.0c4c57bf.css",
+    "main.js": "/Someshwar28Mishra/PRESS-PULSE.git/static/js/main.31045403.js",
+    "static/js/453.54e78fa0.chunk.js": "/Someshwar28Mishra/PRESS-PULSE.git/static/js/453.54e78fa0.chunk.js",
+    "static/media/head.png": "/Someshwar28Mishra/PRESS-PULSE.git/static/media/head.082ee63a03aa81014a07.png",
+    "index.html": "/Someshwar28Mishra/PRESS-PULSE.git/index.html",
+    "main.0c4c57bf.css.map": "/Someshwar28Mishra/PRESS-PULSE.git/static/css/main.0c4c57bf.css.map",
+    "main.31045403.js.map": "/Someshwar28Mishra/PRESS-PULSE.git/static/js/main.31045403.js.map",
+    "453.54e78fa0.chunk.js.map": "/Someshwar28Mishra/PRESS-PULSE.git/static/js/453.54e78fa0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c4c57bf.css",
+    "static/js/main.31045403.js"
+  ]
+}
